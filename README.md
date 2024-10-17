@@ -1,6 +1,9 @@
 # Mobile-App
 Repository for the Mobile Applications Course
 
+> For the mockup pictures: The user would first see the category selector → part selector → pattern gallery
+>
+
 # Custom Crochet Patterns
 
 ### Description:
