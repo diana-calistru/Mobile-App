@@ -84,7 +84,3 @@ As I specified earlier, only the user submitted patterns can be altered and the 
 
 - Since the changes that come from create, update or delete will be stored only on the local database, the device being offline should not interfere with the user experience.
 - For the read operation, the predefined patterns should already be stored locally (cached from a previous online session) and the local ones are available at all times.
-
----
-
-### App mockup:
